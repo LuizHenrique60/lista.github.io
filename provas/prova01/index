@@ -1,0 +1,91 @@
+<!-- Tokisaki Kurumi -->
+<!DOCTYPE html>
+<html lang="pt-br" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Luiz Henrique Caldas Ferreira">
+    <title>IFTM Cursos</title>
+</head>
+<body style="font-family: Arial;">
+    <img src="logoIFTM.png" height="50">
+    <h1 style="color: rgb(0, 92, 23);">Cursos oferecidos</h1>
+    <h2 style="color: rgb(155, 0, 25);">Conheça os cursos oferecidos pelo IFTM</h2>
+    <hr>
+    <p>O <a href="https://iftm.edu.br/" target="_blank">IFTM</a> campus Uberlândia Centro oferece cursos de graduação em Licenciatura e em Tecnologia. Confira abaixo alguns desses cursos:</p>
+    <table>
+        <tr>
+            <td><img src="licenciatura.jpg" height="175"></td>
+            <td><img src="sistemas.jpg" height="175"></td>
+        </tr>
+        <tr>
+            <td><a href="#Licenciatura"><p>Licenciatura para computação</p></a></td>
+            <td><a href="#Sistema"><p>Sistema para internet</p></a></td>
+        </tr>
+    </table>
+    <h2 style="color: rgb(155, 0, 25);" id="Licenciatura">Licenciatura em Computação</h2>
+    <hr>
+    <p>No exercício profissional do licenciado em computação estão implícitas várias competências: colaboração com profissionais de diversas áreas, qualificação e comprometimento com a gestão do processo de ensino-aprendizagem, visão da complementaridade do processo educativo, da tecnologia e da ciência da computação, estímulo à pesquisa, à criação e ao investimento na própria formação. Seu objetivo é formar professores com uma visão tecnológica em computação para atuar na educação básica (ensino fundamental e médio) e também na educação profissional técnica de nível médio, tanto na rede de ensino pública quanto privada.</p>
+    <details>
+        <summary style="color: rgb(0, 0, 200);">Mais informações sobre o curso</summary>
+        <br>
+        <b>Perfil do egresso</b>
+        <br>
+        <p>Entendemos o licenciado em computação, em primeiro lugar, como um profissional ligado ao exercício do diálogo entre as unidades curriculares nos espaços da educação. Como tal, esse profissional agrega-se às equipes de coordenação pedagógica, nas quais atua de início, como um facilitador da introdução de novas tecnologias, não apenas no sentido prático (ou das práticas), mas particularmente no nível da discussão de metodologias e concepções. Nessa qualidade, a sua intervenção no plano das atividades de concepção, planejamento e gestão pedagógicas pode, ou não, ser definida como algo transitório, dependendo da maior ou menor dificuldade de amadurecimento da cultura tecnológica na comunidade em que atua.</p>
+        <b>Corpo docente</b>
+        <br>
+        <p>Conheça os professores do curso de Licenciatura em COmputação:</p>
+        <table border="1">
+            <tr>
+                <th>Docente</th>
+                <th>Titulação</th>
+                <th>Área de Atuação</th>
+                <th>Regime</th>
+            </tr>
+            <tr>
+                <td>Bruno Quieroz Pinto</td>
+                <td>Doutorado</td>
+                <td>Desenvolvimento de Sistemas</td>
+                <td>DE</td>
+            </tr>
+            <tr>
+                <td>Wilton de Paula Filho</td>
+                <td>Doutorado</td>
+                <td>Computação 2</td>
+                <td>DE</td>
+            </tr>
+        </table>
+    </details>
+    <h2  style="color: rgb(155, 0, 25);" id="Sistema">Sistema para internet</h2>
+    <hr>
+    <p>O curso de Tecnologia em Sistemas para Internet possui como objetivo geral formar tecnólogos em Sistemas para Internet, proporcionando conhecimentos teóricos e práticos com vistas à formação integral. Isso ocorre por meio do estudo técnico-científico e da reflexão crítica sobre os aspectos humanos, éticos e cidadãos, de modo a atender com excelência às demandas do arranjo produtivo da região.</p>
+    <details>
+        <summary style="color: rgb(0, 0, 200);">Mais informações sobre o curso</summary>
+        <br>
+        <b>Perfil do egresso</b>
+        <br>
+        <p>O curso de Tecnologia em Sistemas para Internet, por meio de seus componentes curriculares e demais atividades acadêmicas, proporcionará ao egresso uma formação com embasamento técnico nas diversas áreas relacionadas aos sistemas para Internet/Intranet/Web. Ao mesmo tempo, visa à formação integral, oportunizando o ensino-aprendizado de aspectos científicos, bem como humanos, éticos e cidadãos.</p>
+        <b>Corpo docente</b>
+        <p>Conheça os professores do curso de Sistemas para internet:</p>
+        <table border="1">
+            <tr>
+                <th>Docente</th>
+                <th>Titulação</th>
+                <th>Área de Atuação</th>
+                <th>Regime</th>
+            </tr>
+            <tr>
+                <td>Clarimundo Machado Morais Junior</td>
+                <td>Doutorado</td>
+                <td>Desenvolvimento de Sistemas</td>
+                <td>DE</td>
+            </tr>
+            <tr>
+                <td>Wilton de Paula Filho</td>
+                <td>Doutorado</td>
+                <td>Computação 2</td>
+                <td>DE</td>
+            </tr>
+        </table>
+    </details>
+    </body>
+</html>
