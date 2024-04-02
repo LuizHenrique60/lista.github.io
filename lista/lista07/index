@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luiz Henrique Caldas Ferreira</title>
+</head>
+<body>
+    <h1>Cadastro do cliente</h1>
+    <p  style="color: red;">Todos os campos são de preenchimento obrigatório</p>
+    <form>
+        <fieldset>
+            <legend>Dados Pessoais</legend>
+            <label for="Nome:">Nome:</label>
+            <input type="text" required placeholder="Nome completo" id="Nome:">
+            <br><br>
+            <label for="data de nascimento:">Data de nascimento:</label>
+            <input type="date" required id="Data de nascimento:">
+            <br><br>
+            <label>Sexo:</label>
+            <input type="radio" name="sexo">Homem
+            <input type="radio" name="sexo">Mulher
+            <input type="radio" name="sexo">Outro
+        </fieldset>
+        <br>
+        <fieldset>
+            <legend>Informações pessoais</legend>
+            <label for="Email:">Email:</label>
+            <input type="email" required id="Email:">
+            <br><br>
+            <label for="Telefone celular:">Telefone celular:</label>
+            <input type="tel" maxlength="9" required placeholder="Apenas números (máx: 9)" id="Telefone celular:">
+            <br><br>
+            <label for="Website pessoal:">Website pessoal</label>
+            <input type="url" required id="Website pessoal:">
+            <br><br>
+        </fieldset>
+        <br>
+        <fieldset>
+            <legend>Localização</legend>
+            <br>
+            <label for="Endereço:">Endereço:</label>
+            <input type="text" required id="Endereço:">
+            <br><br>
+            <label for="Número:">Número:</label>
+            <input type="number" required min="1" max="9999" placeholder="Valor entre 1 e 9999" style="width: 140px;" id="Número:">
+            <br><br>
+            <label for="Cidade:">Cidade:</label>
+            <input type="text" required id="Cidade:">
+            <br><br>
+            <label>Estado:</label>
+            <select>
+                <option>AC</option>
+                <option>AL</option>
+                <option>AP</option>
+                <option>AM</option>
+                <option>BA</option>
+                <option>CE</option>
+                <option>DF</option>
+                <option>ES</option>
+                <option>GO</option>
+                <option>MA</option>
+                <option>MT</option>
+                <option>MS</option>
+                <option>MG</option>
+                <option>PA</option>
+                <option>PB</option>
+                <option>PR</option>
+                <option>PE</option>
+                <option>PI</option>
+                <option>RJ</option>
+                <option>RN</option>
+                <option>RO</option>
+                <option>RR</option>
+                <option>SC</option>
+                <option>SP</option>
+                <option>SE</option>
+                <option>TO</option>
+                <option>DF</option>
+            </select>
+        </fieldset>
+        <br>
+        <input type="submit">
+        <input type="reset">
+    </form>
+</body>
+</html>
