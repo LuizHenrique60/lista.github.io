@@ -1,0 +1,76 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Instituto Federal do Triângulo Mineiro</h1>
+        <Nav>
+            <ul>
+                <li><a href="#">Institucional</a></li>
+                <li><a href="#">Campi</a></li>
+                <li><a href="#">Sobre nós</a></li>
+            </ul>
+        </Nav>
+    </header>
+
+    <main>
+        <section>
+            <h1>Uberlândia Centro</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente vero voluptatibus tenetur ipsam in. Nam itaque a dolorem illo, voluptas assumenda tempore ratione, ipsum exercitationem quam animi modi iure. Quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos sequi molestias mollitia vero quisquam esse adipisci quaerat fugit earum consectetur velit asperiores quibusdam, quas rerum qui omnis quidem. Nostrum, incidunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor laudantium corrupti aliquam? Cupiditate, quas ducimus. Eaque enim eius nemo dolor dolorem quasi obcaecati aspernatur nobis, deleniti optio placeat aliquam fuga.</p>
+            <table>
+                <tr>
+                    <td>
+                        <img src="img/iftm.jpg" alt="">
+                    </td>
+                    <td>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit vero officia beatae dolore aliquid voluptates facere laborum, omnis, nemo porro provident quam eos explicabo ad ipsum fuga ea laboriosam necessitatibus? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam repudiandae accusantium fugit aut, enim, asperiores maiores, quaerat inventore qui odio autem rerum dicta cupiditate dolorem minima quidem vitae laborum veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque earum, in nesciunt a magni neque. Earum architecto nostrum iste recusandae fugit amet, eligendi voluptate, quae fuga porro cupiditate nobis odio?</p>
+                    <ul>
+                        <li>Ensino</li>
+                        <li>Pesquisa</li>
+                        <li>Extensão</li>
+                        <li>Outras atividades</li>
+                    </ul>
+                    </td>
+                </tr>
+            </table>
+        </section>
+        <section>
+            <h1>Ituiutaba</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita quisquam quae odit quasi. Officia est, vitae, quaerat assumenda molestiae hic alias accusamus corporis autem repudiandae accusantium dolore in veniam. Temporibus! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus corporis modi adipisci est aperiam nemo odit excepturi iure, harum deleniti consequatur distinctio facilis veniam ullam tempora? Inventore deleniti cumque dolor? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem consequuntur reprehenderit accusantium praesentium corrupti obcaecati, magni ut at et. Ab nam ducimus iusto cum dolorum tenetur et dicta. Sed, at!</p>
+            <table>
+                <tr>
+                    <td>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque odio magni praesentium placeat eius esse autem, neque, accusamus culpa expedita nostrum? Repellat voluptate eligendi temporibus explicabo delectus ab veniam voluptates? Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda magni est similique placeat exercitationem laudantium itaque rerum nulla veritatis quod! Ab et vero veniam. Sunt doloribus consequuntur cupiditate adipisci eligendi!</p>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima praesentium consequuntur perspiciatis mollitia nam, porro omnis eveniet, non eligendi ratione architecto inventore voluptas optio quam sed iure nihil molestiae? Enim. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim eaque alias quaerat inventore facilis iste quasi voluptas, nam pariatur omnis repudiandae a ex consequuntur exercitationem. Voluptatibus, eveniet repellat! Repudiandae, ea!</p>
+                    </td>
+                    <td>
+                        <img src="img/iftm2.jpg">
+                    </td>
+                </tr>
+            </table>
+        </section>
+        <section>
+            <h1>Patos de Minas</h1>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia doloremque iusto nam, excepturi tempora quas facere officiis accusantium, repellendus fugiat asperiores obcaecati earum dignissimos suscipit, ipsum cumque porro doloribus dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis autem velit molestias consequatur, veniam est impedit officiis. Dolorum, accusamus animi! In distinctio cupiditate numquam aliquid voluptate voluptatibus inventore, nostrum quia.</p>
+            <table>
+                <tr>
+                    <td>
+                        <img src="img/iftm3.jpg">
+                    </td>
+                    <td>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consectetur earum eum cupiditate eveniet, excepturi explicabo voluptates quis fugiat repellendus? Consequuntur architecto impedit quis quia quos necessitatibus omnis veniam voluptatibus sapiente? Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum tempora, sapiente fugit voluptas soluta quidem amet, nobis repellat dolore eveniet aut aliquam? Nam animi officiis nesciunt vero. Ad, doloribus. Amet.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque beatae quisquam molestias fugiat eaque reprehenderit, illum unde quis, temporibus earum fugit velit eos doloribus repudiandae voluptate soluta provident numquam! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veritatis accusamus recusandae est delectus eveniet esse ipsum dolorem quas, cupiditate inventore deleniti, adipisci laudantium unde reiciendis, ipsam iste? Consectetur, possimus numquam!</p>
+                    </td>
+                </tr>
+            </table>
+            <a href="#">Voltar ao topo</a>
+        </section>
+    </main>
+
+    <footer><p>Rodapé da página </p></footer>
+</body>
+</html>
